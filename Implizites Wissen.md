@@ -1,0 +1,3 @@
+- Wissen, das im Kopf einer Person vorliegt
+- Häufig unbewußt vorliegt
+- Erfahrungswissen umfasst

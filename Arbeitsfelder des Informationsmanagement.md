@@ -1,0 +1,3 @@
+[[Datenmanagement]]
+[[Informationsmanagement]]
+[[Wissensmanagement]]
